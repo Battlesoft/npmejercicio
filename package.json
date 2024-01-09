@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yeray Santana Curbelo",
 	"description": "Este proyecto porfavor que compile :c",
+	"keywords": [ "DPL", "Cortito", "laravel" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
