@@ -3,6 +3,7 @@
 	"author": "Yeray Santana Curbelo",
 	"description": "Este proyecto porfavor que compile :c",
 	"keywords": [ "DPL", "Cortito", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
