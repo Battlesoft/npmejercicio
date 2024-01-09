@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yeray Santana Curbelo",
+	"description": "Este proyecto porfavor que compile :c",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
